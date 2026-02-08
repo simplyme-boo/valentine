@@ -15,7 +15,7 @@ export default function Page() {
     const phrases = [
       "No",
       "Are you sure?",
-      "Really sure?",
+      "Really sure Suraj?",
       "Think again!",
       "Last chance!",
       "Surely not?",
@@ -31,7 +31,7 @@ export default function Page() {
       "You're breaking my heart ;(",
       "Is that your final answer?",
       "You're breaking my heart ;(",
-      "Plsss? :( You're breaking my heart",
+      "Plsss? :( You're breaking my heart Suraj Pradip",
     ];
 
     return phrases[Math.min(noCount, phrases.length - 1)];
@@ -43,7 +43,8 @@ export default function Page() {
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
           <div className="text-4xl md:text-6xl font-bold my-4">
-            Ok Yayyyyy!!!
+            YOU FINALLY SAID YES!!!! Hehe.... well well well... looks like you’re stuck being my Valentine now, Suraj Pradip. No returns, no refunds. UR MINE FOREVER NOW my Ezio Auditore!!
+            I love you now, forever and always, ummwahhhh <3 <3
           </div>
         </>
       ) : (
