@@ -1,6 +1,6 @@
 import { useState } from "react";
-import lovesvg from "./assets/All You Need Is Love SVG Cut File.svg";
-import lovesvg2 from "./assets/Love In The Air SVG Cut File.svg";
+import lovesvg from "./assets/All-You-Need-Is-Love.svg";
+import lovesvg2 from "./assets/Love-In-The-Air.svg";
 
 export default function Page() {
   const [noCount, setNoCount] = useState(0);
@@ -17,7 +17,7 @@ export default function Page() {
       "Are you sure?",
       "Really sure Suraj?",
       "Think again!",
-      "Last chance!",
+      "Last chance honn!",
       "Surely not?",
       "You might regret this!",
       "Give it another thought!",
@@ -43,8 +43,19 @@ export default function Page() {
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
           <div className="text-4xl md:text-6xl font-bold my-4">
-            YOU FINALLY SAID YES!!!! Hehe.... well well well... looks like you’re stuck being my Valentine now, Suraj Pradip. No returns, no refunds. UR MINE FOREVER NOW my Ezio Auditore!!
-            I love you now, forever and always, ummwahhhh <3 <3
+            YOU FINALLY SAID YES!!!! 
+            <br/>
+            <br/>
+            Well well well… looks like you’re stuck being my Valentine now, Suraj Pradip.
+            No returns, no refunds.
+            <br />
+            <br />
+            UR MINE FOREVER NOW my Ezio Auditore!!
+            <br />
+            I love you now, forever and always 💖
+            <br />
+            ummwahhhh &lt;3 &lt;3
+
           </div>
         </>
       ) : (
@@ -90,7 +101,8 @@ const Footer = () => {
   return (
     <a
       className="fixed bottom-2 right-2 backdrop-blur-md opacity-80 hover:opacity-95 border p-1 rounded border-rose-300"
-      href="https://github.com/Xeven777/valentine"
+      href="href="https://github.com/simplyme-boo/valentine"
+
       target="__blank"
     >
       Made with{" "}
