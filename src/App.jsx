@@ -14,24 +14,24 @@ export default function Page() {
   const getNoButtonText = () => {
     const phrases = [
       "No",
-      "Are you sure?",
-      "Really sure Suraj?",
+      "Are you sure, Suraj?",
+      "Really sure?",
       "Think again!",
       "Last chance honn!",
-      "Surely not?",
+      "I'll forgive you, try again!",
       "You might regret this!",
       "Give it another thought!",
-      "Are you absolutely certain?",
+      "Caamaaaaan u for real bro",
       "This could be a mistake!",
-      "Have a heart!",
+      "Have a heart Suraj muthe!",
       "Don't be so cold!",
-      "Change of heart?",
+      "Change of heart,peesh?",
       "Wouldn't you reconsider?",
       "Is that your final answer?",
       "You're breaking my heart ;(",
       "Is that your final answer?",
-      "You're breaking my heart ;(",
-      "Plsss? :( You're breaking my heart Suraj Pradip",
+      "You're breaking my heart Suraj Pradip;(",
+      "Plsss? :( You're breaking my heart boo",
     ];
 
     return phrases[Math.min(noCount, phrases.length - 1)];
@@ -46,15 +46,10 @@ export default function Page() {
             YOU FINALLY SAID YES!!!! 
             <br/>
             <br/>
-            Well well well… looks like you’re stuck being my Valentine now, Suraj Pradip.
-            No returns, no refunds.
+            Hehe You’re stuck being my Valentine now, babes.
+            No returns, no refunds. UR MINE FOREVER NOW my Ezio Auditore!!
             <br />
-            <br />
-            UR MINE FOREVER NOW my Ezio Auditore!!
-            <br />
-            I love you now, forever and always 💖
-            <br />
-            ummwahhhh &lt;3 &lt;3
+            I love you now, forever and always 💖 ummwahhhh &lt;3 &lt;3
 
           </div>
         </>
