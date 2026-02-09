@@ -47,7 +47,6 @@ export default function Page() {
             <br/>
             Hehe You’re stuck being my Valentine now, babes.
             No returns, no refunds. UR MINE FOREVER NOW my Ezio Auditore!!
-            <br />
             I love you now, forever and always ummwahhhh &lt;3 &lt;3 💖
           </div>
         </>
