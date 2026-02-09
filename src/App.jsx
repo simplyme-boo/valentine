@@ -45,12 +45,10 @@ export default function Page() {
           <div className="text-4xl md:text-6xl font-bold my-4">
             YOU FINALLY SAID YES!!!! 
             <br/>
-            <br/>
             Hehe You’re stuck being my Valentine now, babes.
             No returns, no refunds. UR MINE FOREVER NOW my Ezio Auditore!!
             <br />
-            I love you now, forever and always 💖 ummwahhhh &lt;3 &lt;3
-
+            I love you now, forever and always ummwahhhh &lt;3 &lt;3 💖
           </div>
         </>
       ) : (
